@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[25 years old birthday](https://hengguan.github.io/GF-birthday/)
+[25 years old birthday](https://hengguan.github.io/GF-birthday/index.html)
 
 You can use the [editor on GitHub](https://github.com/hengguan/GF-birthday/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
